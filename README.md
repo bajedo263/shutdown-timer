@@ -1,6 +1,6 @@
 # Script d'Arrêt Automatique Progressif
 
-Ce script simple vous permet de programmer l'arrêt automatique de votre ordinateur Windows après un délai spécifié. Mais attendez, ce n'est pas tout ! Il affiche également une barre de progression sympathique pour vous indiquer à quel point vous êtes proche de l'extinction totale.
+Ce script simple vous permet de programmer l'arrêt automatique de votre ordinateur Windows après un délai spécifié. Il affiche également une barre de progression pour vous indiquer à quel point vous êtes proche de l'arrêt.
 
 ## Comment Utiliser
 
